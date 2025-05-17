@@ -5,3 +5,4 @@ Face Recognition: Identifies individuals based on a trained LBPH model.
 Data Augmentation: Enhances the training dataset with various transformations to improve model accuracy.
 Real-Time Recognition: Recognizes faces from a live video feed via a webcam.
 Requirements
+data is trained then tested with confidence of 75%
